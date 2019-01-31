@@ -29,7 +29,7 @@ How to balance with agricultural production?
 <img  STYLE="position:absolute; TOP:280px; LEFT:359px; HEIGHT:200px" src="wood.png" alt="Woodland">
 <img  STYLE="position:absolute; TOP:280px; LEFT:659px; HEIGHT:200px" src="silvo.png" alt="Silvo">
 
----{.build} 
+--- 
 
 ## Modelling
 
