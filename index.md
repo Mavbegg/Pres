@@ -21,7 +21,7 @@ knit        : slidify::knit2slides
 
  Pasture for grazing 
 
-100000 ha of afforestation  
+100000 ha of afforestation in Scotland  
 
 How to balance with agricultural production?   
 
