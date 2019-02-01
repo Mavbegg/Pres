@@ -29,6 +29,23 @@ How to balance with agricultural production?
 <img  STYLE="position:absolute; TOP:280px; LEFT:359px; HEIGHT:200px" src="wood.png" alt="Woodland">
 <img  STYLE="position:absolute; TOP:280px; LEFT:659px; HEIGHT:200px" src="silvo.png" alt="Silvo">
 
+--- &twocol
+
+## Glensaugh farm
+
+*** =left
+### Production
+
+  * Sheep
+  * Wood
+
+*** =right
+### Measuring Carbon
+
+- .fragment Biomass
+   - .fragment Allometry
+- .fragment Soil
+
 --- 
 
 ## Modelling
@@ -37,8 +54,7 @@ How to balance with agricultural production?
 
  * Emprical
  * Process based
- > * gg
- .build hahah
+
 
 
 <img  STYLE="position:absolute; TOP:410px; LEFT:70px; HEIGHT:260px" src="cstock.png" alt="spectrum">
@@ -49,8 +65,8 @@ How to balance with agricultural production?
 
 ---
 
-## Results 
-# Fractions 
+## Run RothC at site level 
+#  
 
 .Labile
 
