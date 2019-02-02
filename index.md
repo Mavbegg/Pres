@@ -57,64 +57,63 @@ How to balance with agricultural production?
 
 
 
-<img  STYLE="position:absolute; TOP:410px; LEFT:70px; HEIGHT:260px" src="cstock.png" alt="spectrum">
 
 
 
 
 
----
+
+--- &twocol
 
 ## Run RothC at site level 
-#  
-
-.Labile
-
-.Resistant
-
-.Inert
+*** =left
+### Input  
 
 
+* Climate data
+* Plant input
+* Clay
+*** =right
+### Output
+<img  STYLE="position:absolute; TOP:210px; RIGHT:70px; HEIGHT:260px" src="cstock.png" alt="spectrum">
 
 ---
 
-## Chapter 4
-# Chemical and optical methods to isolate charoal in peat
+## Fractionation for model validation
 
-.build chemical methods are Sodium hypochloride and Nitric acid/hydrogen peroxide oxidation
-
-.build -> isolate charcoal for samples with <20% C
-
-.build -> highly organic samples too much resistant material
-
-.build Optical method good approximation and potential to isolate and analyse char fragments
-
-.build method subjective and trouble with some samples (too 'dark' )
-
-<img  STYLE="position:absolute; TOP:480px; LEFT:59px; HEIGHT:200px" src="opti.png" alt="spectrum"> 
+<div style='text-align: center;'>
+<img height='560' src='zim.png' />
+</div>
 
 ---
 
 
-## Chapter 5
-# Incubation to inverse model carbon pools
+## Fractionation for model validation
+# Results
+<div style='text-align: center;'>
+<img height='560' src='fracA.png' />
+</div>
 
-.build Identidy kinetic SOM fraction (biological fractionation)
-
-.build actual decomposition, takes microbes into account
-
-.build can only estimate labile pools in timeframe given
-
-.build so far values quite close to model, but requires some more parameter fitting
-
-<img  STYLE="position:absolute; TOP:480px; LEFT:59px; HEIGHT:200px" src="co2.png" alt="spectrum"> 
 
 ---
 
-## Chapter 6
+
+## Fractionation for model validation
+# Results
+<div style='text-align: center;'>
+<img height='560' src='fracB.png' />
+</div>
 
 
-<img  STYLE="position:absolute; TOP:110px; LEFT:270px; HEIGHT:360px" src="spectrum.png" alt="spectrum"> 
+--- &twocol
+
+## Peaty soils
+
+*** =left
+* ECOSSE
+
+*** =right
+<img  STYLE="position:absolute; TOP:210px; RIGHT:70px; HEIGHT:360px" src="mech.png" alt="stabilisation mechanisms">
 
 --- 
 
