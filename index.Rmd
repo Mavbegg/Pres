@@ -104,6 +104,26 @@ How to balance with agricultural production?
 <img height='560' src='fracB.png' />
 </div>
 
+---
+
+<div style='text-align: center;'>
+<img height='560' src='heath.png' />
+</div>
+
+---
+
+<div style='text-align: center;'>
+<img height='560' src='core.png' />
+</div>
+
+
+---
+
+<div style='text-align: center;'>
+<img height='560' src='fire2.png' />
+</div>
+
+
 
 --- &twocol
 
@@ -115,75 +135,41 @@ How to balance with agricultural production?
 *** =right
 <img  STYLE="position:absolute; TOP:210px; RIGHT:70px; HEIGHT:360px" src="mech.png" alt="stabilisation mechanisms">
 
---- 
+---
+## Hot water extractions and acid hydrolysis
 
-## Chapter 6
-# Spectroscopy 
-
-
-<img  STYLE="position:absolute; TOP:110px; LEFT:270px; HEIGHT:360px" src="spectrum.png" alt="spectrum"> 
-
-<img  STYLE="position:absolute; TOP:20px; LEFT:430px; HEIGHT:200px" src="resp.png" alt="spectrum"> 
-
-
+<div style='text-align: center;'>
+<img height='560' src='hydro.png' />
+</div>
 
 --- 
 
-## Chapter 6
-# Spectroscopy 
-
-
-<img  STYLE="position:absolute; TOP:110px; LEFT:270px; HEIGHT:360px" src="spectrum.png" alt="spectrum"> 
-
-<img  STYLE="position:absolute; TOP:20px; LEFT:430px; HEIGHT:200px" src="resp.png" alt="spectrum"> 
-
-<img  STYLE="position:absolute; TOP:110px; LEFT:780px; HEIGHT:500px" src="proc.png" alt="spectrum">
-
---- 
-
-## Chapter 6
-# Spectroscopy 
-
-
-<img  STYLE="position:absolute; TOP:110px; LEFT:270px; HEIGHT:360px" src="spectrum.png" alt="spectrum"> 
-
-<img  STYLE="position:absolute; TOP:20px; LEFT:430px; HEIGHT:200px" src="resp.png" alt="spectrum"> 
-
-<img  STYLE="position:absolute; TOP:110px; LEFT:780px; HEIGHT:500px" src="proc.png" alt="spectrum">
-
-<img  STYLE="position:absolute; TOP:470px; LEFT:480px; HEIGHT:200px" src="res.png" alt="spectrum">
-
---- 
-
-## Chapter 6
-
-
-<img  STYLE="position:absolute; TOP:110px; LEFT:300px; HEIGHT:500px" src="ipsposter2.png" alt="spectrum">
+## Reverse estimation of carbon pools
  
 
 
 
----
+<div style='text-align: center;'>
+<img height='560' src='para.png' />
+</div>
 
-## Chapter 7
-# Plate reader to measure short term respiration and priming in peat
 
-.build 'microresp' plate reader compared to GC measurements for short term respiration
 
-.build data collected, but still requires calibration and dry weights (underway)
+--- 
 
-.build will attempt to match to short term model
+## Spectroscopy
+# for char and carbon quality assessment
 
----
 
-## Chapter 8
-# Carbon sequestraion in Scottish and Tasmanian peaty soils
+<div style='text-align: center;'>
+<img height='560' src='spectrum.png' />
+</div>
 
-synthesis of previous methodology chapters, applied to the sites
 
-Can include qualitative and quantitative FTIR
 
----
+--- 
+
+
 
 ## Conclusion
 
