@@ -40,7 +40,7 @@ knit        : slidify::knit2slides
 
 --- &twocol
 
-## Glensaugh farm
+## Glensaugh 
 
 *** =left
 ### Management
