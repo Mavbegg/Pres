@@ -354,7 +354,7 @@ pre code {
 .title-slide {
   
   background-color: white;
-  background-image:url('../img/cover.png');
+  background-image:url('../img/cover2.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -366,9 +366,10 @@ pre code {
 .title-slide hgroup > h1,
 .title-slide hgroup > h2
 {
-  color: coral; 
+  color: white; 
   left: 120px;
-  position: relative;
+  position: absolute;
+  top: 200px;    
 } 
     
 .build > * {

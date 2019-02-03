@@ -365,7 +365,9 @@ pre code {
 
 .title-slide hgroup > h1, 
 .title-slide hgroup > h2 {
-  color: coral ; 
+  color: white ; 
+    position:relative;
+    top:120px;
 }
 
 .build > * {

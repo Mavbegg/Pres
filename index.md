@@ -10,24 +10,33 @@ widgets     : []            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 --- 
+## Carbon in the Scottish Uplands
 
-
+---&twocol
 
 ## Carbon in the Scottish Uplands
 
+<img  STYLE="position:absolute; TOP:510px; LEFT:70px; HEIGHT:160px" src="peatland.png" alt="peatland">
+<img  STYLE="position:absolute; TOP:510px; LEFT:370px; HEIGHT:160px" src="wood.png" alt="forest">
+<img  STYLE="position:absolute; TOP:510px; LEFT:670px; HEIGHT:160px" src="silvo.png" alt="silvo">
+
+*** =left
 # Land use
 
+<div style='text-align: left;'>
+<img height='260' src='lus.png' />
+</div>
+
+*** =right
+# Increase carbon sequestration
+
+* Protect and manage petlands for carbon benefits
+
+* Increase tree cover
+
+* Integrate trees with agricultural prodution
 
 
- Pasture for grazing 
-
-100000 ha of afforestation in Scotland  
-
-How to balance with agricultural production?   
-
-<img  STYLE="position:absolute; TOP:280px; LEFT:59px; HEIGHT:200px" src="pas.png" alt="Pasture"> 
-<img  STYLE="position:absolute; TOP:280px; LEFT:359px; HEIGHT:200px" src="wood.png" alt="Woodland">
-<img  STYLE="position:absolute; TOP:280px; LEFT:659px; HEIGHT:200px" src="silvo.png" alt="Silvo">
 
 --- &twocol
 
@@ -85,13 +94,22 @@ How to balance with agricultural production?
 <img height='560' src='zim.png' />
 </div>
 
----
+--- &twocol
 
 
 ## Fractionation for model validation
-# Results
+
+
+*** =left
+<img  STYLE="position:absolute; TOP:150px; LEFT:70px; HEIGHT:260px" src="spa.png" >
+<img  STYLE="position:absolute; TOP:150px; LEFT:370px; HEIGHT:260px" src="hla.png" alt="forest">
+<img  STYLE="position:absolute; TOP:410px; LEFT:70px; HEIGHT:260px" src="spb.png" alt="silvo">
+<img  STYLE="position:absolute; TOP:410px; LEFT:370px; HEIGHT:260px" src="hlb.png" alt="silvo">
+
+*** =right
+
 <div style='text-align: center;'>
-<img height='560' src='fracA.png' />
+ statistical
 </div>
 
 
