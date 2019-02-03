@@ -43,38 +43,22 @@ knit        : slidify::knit2slides
 ## Glensaugh farm
 
 *** =left
-### Production
+### Management
 
-  * Sheep
-  * Wood
+  
+<img  STYLE="position:absolute; TOP:210px; LEFT:70px; HEIGHT:260px" src="map.jpg" alt="map">
+
 
 *** =right
 ### Measuring Carbon
 
-- .fragment Biomass
-   - .fragment Allometry
-- .fragment Soil
-
---- 
-
-## Modelling
-
-# Types of models
-
- * Emprical
- * Process based
-
-
-
-
-
-
+<img  STYLE="position:absolute; TOP:210px; RIGHT:70px; HEIGHT:260px" src="allc.png" alt="allc">
 
 
 
 --- &twocol
 
-## Run RothC at site level 
+##  Modelling -RothC 
 *** =left
 ### Input  
 
@@ -83,8 +67,8 @@ knit        : slidify::knit2slides
 * Plant input
 * Clay
 *** =right
-### Output
-<img  STYLE="position:absolute; TOP:210px; RIGHT:70px; HEIGHT:260px" src="cstock.png" alt="spectrum">
+### Model
+<img  STYLE="position:absolute; TOP:210px; RIGHT:70px; HEIGHT:260px" src="rothc.png" alt="RothC">
 
 ---
 
@@ -94,39 +78,29 @@ knit        : slidify::knit2slides
 <img height='560' src='zim.png' />
 </div>
 
---- &twocol
-
+--- 
 
 ## Fractionation for model validation
 
 
-*** =left
-<img  STYLE="position:absolute; TOP:150px; LEFT:70px; HEIGHT:260px" src="spa.png" >
-<img  STYLE="position:absolute; TOP:150px; LEFT:370px; HEIGHT:260px" src="hla.png" alt="forest">
-<img  STYLE="position:absolute; TOP:410px; LEFT:70px; HEIGHT:260px" src="spb.png" alt="silvo">
-<img  STYLE="position:absolute; TOP:410px; LEFT:370px; HEIGHT:260px" src="hlb.png" alt="silvo">
 
-*** =right
-
-<div style='text-align: center;'>
- statistical
-</div>
+<img  STYLE="position:absolute; TOP:110px; LEFT:170px; HEIGHT:270px" src="spa.png" >
+<img  STYLE="position:absolute; TOP:110px; LEFT:670px; HEIGHT:270px" src="hla.png" alt="forest">
+<img  STYLE="position:absolute; TOP:400px; LEFT:170px; HEIGHT:270px" src="spb.png" alt="silvo">
+<img  STYLE="position:absolute; TOP:400px; LEFT:670px; HEIGHT:270px" src="hlb.png" alt="silvo">
 
 
 ---
 
-
-## Fractionation for model validation
-# Results
 <div style='text-align: center;'>
-<img height='560' src='fracB.png' />
+<img height='460' src='me.png' />
 </div>
 
----
 
-<div style='text-align: center;'>
-<img height='560' src='heath.png' />
-</div>
+
+--- &slidebg bg:url('heath.png')
+
+
 
 ---
 
@@ -134,12 +108,6 @@ knit        : slidify::knit2slides
 <img height='560' src='core.png' />
 </div>
 
-
----
-
-<div style='text-align: center;'>
-<img height='560' src='fire2.png' />
-</div>
 
 
 
@@ -149,15 +117,26 @@ knit        : slidify::knit2slides
 
 *** =left
 * ECOSSE
+    * derived from RothC (carbon) and sundial (nitrogen)
+    models
+    * developed for mineral and organic soils  
 
 *** =right
 <img  STYLE="position:absolute; TOP:210px; RIGHT:70px; HEIGHT:360px" src="mech.png" alt="stabilisation mechanisms">
 
----
+--- &twocol
 ## Hot water extractions and acid hydrolysis
 
+*** =left
 <div style='text-align: center;'>
-<img height='560' src='hydro.png' />
+<img height='500' src='hypro.png' />
+</div>
+
+
+*** =right
+
+<div style='text-align: center;'>
+<img height='500' src='hygra.png' />
 </div>
 
 --- 
@@ -168,9 +147,11 @@ knit        : slidify::knit2slides
 
 
 <div style='text-align: center;'>
-<img height='560' src='para.png' />
+<img height='560' src='respgr.png' />
 </div>
 
+
+---&slidebg bg:url('fire.png')
 
 
 --- 
@@ -180,17 +161,13 @@ knit        : slidify::knit2slides
 
 
 <div style='text-align: center;'>
-<img height='560' src='spectrum.png' />
+<img height='500' src='chspe.png' />
 </div>
 
 
 
---- 
 
 
 
-## Conclusion
 
-<img  STYLE="position:absolute; TOP:110px; LEFT:300px; HEIGHT:500px" src="fire.png" alt="spectrum">
 
----
