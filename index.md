@@ -10,7 +10,9 @@ widgets     : []            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 knit        : slidify::knit2slides
 --- 
-## Carbon in the Scottish Uplands
+<div class="imgbox">
+    <img class="center-fit" src='cover2.png'>
+</div>
 
 ---&twocol
 
@@ -40,7 +42,7 @@ knit        : slidify::knit2slides
 
 --- &twocol
 
-## Glensaugh farm
+## Glensaugh 
 
 *** =left
 ### Management
@@ -104,9 +106,11 @@ knit        : slidify::knit2slides
 
 
 
---- &slidebg bg:url('heath.png')
+--- 
 
-
+<div class="imgbox">
+    <img class="center-fit" src='heath.png'>
+</div>
 
 ---
 
@@ -180,8 +184,14 @@ knit        : slidify::knit2slides
 
 
 
----&slidebg bg:url('fire.png')
+---
+<div style='text-align: left;'>
+<img height='360' src='fire.png' />
+</div>
 
+<div style='text-align: right;'>
+<img height='360' src='heath.png' />
+</div>
 
 --- 
 
