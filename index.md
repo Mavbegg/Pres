@@ -78,6 +78,12 @@ knit        : slidify::knit2slides
 <img height='560' src='zim.png' />
 </div>
 
+
+<div style="position: absolute; left: 20px; top:575px;">
+    <p style="color:black;font-size:8px;">Zimmermann M, Leifeld J, Schmidt MWI, Smith P, Fuhrer J (2007)<br> Measured soil organic matter fractions can be related to pools in the RothC model. European Journal of Soil Science, 58, 658-667
+</p>
+</div>
+
 --- 
 
 ## Fractionation for model validation
@@ -124,6 +130,13 @@ knit        : slidify::knit2slides
 *** =right
 <img  STYLE="position:absolute; TOP:210px; RIGHT:70px; HEIGHT:360px" src="mech.png" alt="stabilisation mechanisms">
 
+<div style="position: absolute; left: 20px; top:625px;">
+    <p style="color:black;font-size:8px;">Marschner B, Brodowski S, Dreves A et al. (2008) How relevant is recalcitrance for the stabilization of organic matter in soils? Journal of Plant Nutrition and Soil Science, 171, 91-110
+
+</p>
+</div>
+
+
 --- &twocol
 ## Hot water extractions and acid hydrolysis
 
@@ -131,6 +144,13 @@ knit        : slidify::knit2slides
 <div style='text-align: center;'>
 <img height='500' src='hypro.png' />
 </div>
+
+<div style="position: absolute; left: 20px; top:625px;">
+    <p style="color:black;font-size:8px;">Shirato Y, Yokozawa M (2006) Acid hydrolysis<br> to partition plant material into decomposable and resistant fractions for use in the Rothamsted carbon model. Soil Biology and Biochemistry, 38, 812-816
+</p>
+</div>
+
+
 
 
 *** =right
@@ -149,6 +169,15 @@ knit        : slidify::knit2slides
 <div style='text-align: center;'>
 <img height='560' src='respgr.png' />
 </div>
+
+---
+
+## Reverse estimation of carbon pools
+
+<div style='text-align: center;'>
+<img height='560' src='incdi.png' />
+</div>
+
 
 
 ---&slidebg bg:url('fire.png')
