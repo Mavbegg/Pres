@@ -48,13 +48,13 @@ knit        : slidify::knit2slides
 ### Management
 
   
-<img  STYLE="position:absolute; TOP:210px; LEFT:70px; HEIGHT:260px" src="map.jpg" alt="map">
+<img  STYLE="position:absolute; TOP:210px; LEFT:70px; HEIGHT:460px" src="map.jpg" alt="map">
 
 
 *** =right
 ### Measuring Carbon
 
-<img  STYLE="position:absolute; TOP:210px; RIGHT:70px; HEIGHT:260px" src="allc.png" alt="allc">
+<img  STYLE="position:absolute; TOP:210px; RIGHT:70px; HEIGHT:360px" src="allc.png" alt="allc">
 
 
 
@@ -65,9 +65,14 @@ knit        : slidify::knit2slides
 ### Input  
 
 
-* Climate data
-* Plant input
-* Clay
+* Temperature
+* Precipitation
+* Evaporation
+
+* Plant input or carbon stock
+* DPM/RPM
+* Clay content
+
 *** =right
 ### Model
 <img  STYLE="position:absolute; TOP:210px; RIGHT:70px; HEIGHT:260px" src="rothc.png" alt="RothC">
@@ -81,8 +86,8 @@ knit        : slidify::knit2slides
 </div>
 
 
-<div style="position: absolute; left: 20px; top:575px;">
-    <p style="color:black;font-size:8px;">Zimmermann M, Leifeld J, Schmidt MWI, Smith P, Fuhrer J (2007)<br> Measured soil organic matter fractions can be related to pools in the RothC model. European Journal of Soil Science, 58, 658-667
+<div style="position: absolute; left: 40px; top:575px;">
+    <p style="color:black;font-size:8px;">Zimmermann M, Leifeld J, Schmidt MWI, Smith P, Fuhrer J (2007)<br> Measured soil organic matter fractions can be related to <br>pools in the RothC model. European Journal of Soil Science, 58, 658-667
 </p>
 </div>
 
@@ -134,8 +139,8 @@ knit        : slidify::knit2slides
 *** =right
 <img  STYLE="position:absolute; TOP:210px; RIGHT:70px; HEIGHT:360px" src="mech.png" alt="stabilisation mechanisms">
 
-<div style="position: absolute; left: 20px; top:625px;">
-    <p style="color:black;font-size:8px;">Marschner B, Brodowski S, Dreves A et al. (2008) How relevant is recalcitrance for the stabilization of organic matter in soils? Journal of Plant Nutrition and Soil Science, 171, 91-110
+<div style="position: absolute; left: 40px; top:625px;">
+    <p style="color:black;font-size:8px;">Marschner B, Brodowski S, Dreves A et al. (2008)<br> How relevant is recalcitrance for the stabilization of organic matter in soils?<br> Journal of Plant Nutrition and Soil Science, 171, 91-110
 
 </p>
 </div>
@@ -149,7 +154,7 @@ knit        : slidify::knit2slides
 <img height='500' src='hypro.png' />
 </div>
 
-<div style="position: absolute; left: 20px; top:625px;">
+<div style="position: absolute; left: 40px; top:625px;">
     <p style="color:black;font-size:8px;">Shirato Y, Yokozawa M (2006) Acid hydrolysis<br> to partition plant material into decomposable and resistant fractions for use in the Rothamsted carbon model. Soil Biology and Biochemistry, 38, 812-816
 </p>
 </div>
@@ -184,12 +189,15 @@ knit        : slidify::knit2slides
 
 
 
----
+--- &twocol
+
+*** =left
 <div style='text-align: left;'>
 <img height='360' src='fire.png' />
 </div>
 
-<div style='text-align: right;'>
+*** =right
+<div style='text-align: center;'>
 <img height='360' src='heath.png' />
 </div>
 
